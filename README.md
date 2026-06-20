@@ -1,6 +1,6 @@
 # audit-codebase
 
-A Claude Code skill that audits an entire codebase, or a directory within it, for correctness bugs, CLAUDE.md compliance, dead code, and cross-module duplication — not a diff or PR, the whole tree.
+A agentic skill that audits an entire codebase, or a directory within it, for correctness bugs, CLAUDE.md compliance, dead code, and cross-module duplication — not a diff or PR, the whole tree.
 
 ## Why this exists
 
